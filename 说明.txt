@@ -1,0 +1,13 @@
+1、Beyond Compare：差异比较
+
+2、BullseyeCoverage：代码覆盖率
+
+3、CodeCounter：代码数量统计
+
+4、DEPENDS：dll依赖属性
+
+5、Everything：文件查询工具
+
+6、NetAssist：网络助手
+
+7、procexp：系统资源占有
